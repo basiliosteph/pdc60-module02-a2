@@ -3414,11 +3414,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\RM_OOP\\PDC60Module02\\PDC60Module02\\PDC60Module02.Android\\PDC60Module02.Android.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\Hiver\\PDC60\\PDC60Module02\\PDC60Module02.Android\\PDC60Module02.Android.csproj",
       "projectName": "PDC60Module02.Android",
-      "projectPath": "C:\\RM_OOP\\PDC60Module02\\PDC60Module02\\PDC60Module02.Android\\PDC60Module02.Android.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\Hiver\\PDC60\\PDC60Module02\\PDC60Module02.Android\\PDC60Module02.Android.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\RM_OOP\\PDC60Module02\\PDC60Module02\\PDC60Module02.Android\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\Hiver\\PDC60\\PDC60Module02\\PDC60Module02.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -3439,8 +3439,8 @@
       "frameworks": {
         "monoandroid13.0": {
           "projectReferences": {
-            "C:\\RM_OOP\\PDC60Module02\\PDC60Module02\\PDC60Module02\\PDC60Module02.csproj": {
-              "projectPath": "C:\\RM_OOP\\PDC60Module02\\PDC60Module02\\PDC60Module02\\PDC60Module02.csproj"
+            "C:\\Users\\User\\Desktop\\Hiver\\PDC60\\PDC60Module02\\PDC60Module02\\PDC60Module02.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\Hiver\\PDC60\\PDC60Module02\\PDC60Module02\\PDC60Module02.csproj"
             }
           }
         }
