@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "F7BX6QBiqTXhUif8AqKxZ6MqJHS05uvxUg+PzNF2xLMtc2RhTe6zB8LElPYKveRds/6h9b3QzE92SAHZt7KJ9w==",
+  "dgSpecHash": "Aunwok5UC8txa47+bf1E0ilvbAQO5kwLVAvbAiB2qP3cbrrL4N0vQHPheNtz9LeFGkoLLnyCVGV2jlZQHKOQkA==",
   "success": true,
   "projectFilePath": "C:\\Users\\User\\Desktop\\Hiver\\PDC60\\PDC60Module02\\PDC60Module02.Android\\PDC60Module02.Android.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\refractored.mvvmhelpers\\1.6.2\\refractored.mvvmhelpers.1.6.2.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\xamarin.androidx.activity\\1.2.4.1\\xamarin.androidx.activity.1.2.4.1.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\xamarin.androidx.annotation\\1.2.0.1\\xamarin.androidx.annotation.1.2.0.1.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\xamarin.androidx.annotation.experimental\\1.1.0.1\\xamarin.androidx.annotation.experimental.1.1.0.1.nupkg.sha512",
